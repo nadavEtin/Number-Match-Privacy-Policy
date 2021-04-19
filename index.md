@@ -21,7 +21,7 @@ when using the Application, such as contact information and project management i
 We may also use the information you provided us to contact your from time to time to provide
 you with important information, required notices and marketing promotions.
 
-**Automatically Collected Information**
+**Automatically Collected Information** 
 In addition, the Application may collect certain information automatically, including, but not
 limited to, the type of mobile device you use, your mobile devices unique device ID, the IP
 address of your mobile device, your mobile operating system, the type of mobile Internet browsers
@@ -31,8 +31,7 @@ you use, and information about the way you use the Application.
 This Application does not collect precise information about the location of your mobile device. 
 
 
-**Do third parties see and/or have access to information obtained by the**
-Application?
+**Do third parties see and/or have access to information obtained by the Application?**
 Only aggregated, anonymized data is periodically transmitted to external services to help us
 improve the Application and our service. We will share your information with third parties only in
 the ways that are described in this privacy statement.
